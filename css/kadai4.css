@@ -1,0 +1,62 @@
+h1.blackcolor{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color:pink;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: whitesmoke;
+}
+h2.whitecolor{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    
+}
+h2.redcolor{
+    color: yellow;
+    text-align: center;
+    background-color: black;
+    
+}
+h3{
+    color: blueviolet;
+    
+}
+p{
+    color: red;
+}
+p.aiu{
+    color: white;
+}
+
+table{
+    color: aliceblue;
+    background-color: rebeccapurple;
+}
+
+address{
+    color: snow;
+}
+
+ol{
+    background-image: 
+        url("../images/%E8%83%8C%E6%99%AF.jpeg")
+}
+
+body{
+    background-image: url("../images/images.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    
+}
+/*https://e194119kr.github.io/e194119kr..github.io//kadai3.html*/
