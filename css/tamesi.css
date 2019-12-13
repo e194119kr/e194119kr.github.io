@@ -1,0 +1,74 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    /*padding-left: 30px;*/
+}
+div.mannnaka{
+    width: 1000px;
+    height: 320px;
+    margin: 20px　20px;
+}
+
+
+
+div.article{
+    width: 1000px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 30px;
+}
+
+span.menuitem{
+    width: 250px;
+    height: 100px;
+    background-color: beige;
+    display: block;
+    vertical-align: top;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: center;
+    border: 5px dotted pink;
+    margin-bottom: 10px;
+    
+}
+
+span.image1{
+    width: 700px;
+    height: 300px;
+    margin: 20px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-size: 20px;
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    margin: 20px;
+    display: inline-block;
+     vertical-align: top; 
+}
+
+div.images{
+    width: 700px;
+    height: 320px;
+    font-size: 40;
+    display: inline-block;
+    vertical-align: top; 
+    margin: 0px;
+}
